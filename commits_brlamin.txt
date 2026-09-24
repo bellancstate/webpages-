@@ -1,3 +1,15 @@
+commit e43c81fc1f4783c274cccc98a553756dccc74310
+Author: Bella Lamin <brlamin@ncsu.edu>
+Date:   Thu Sep 24 18:04:56 2026 -0400
+
+    Renamed file to webpagesGL.html
+
+commit 0508d90f81ed9699e7d62a6475bf82267e7366fd
+Author: Bella Lamin <brlamin@ncsu.edu>
+Date:   Thu Sep 24 17:54:56 2026 -0400
+
+    Updated commit log file
+
 commit 2b5629b2ed3d37a7b17c7ae212527d8a64040c82
 Author: Bella Lamin <brlamin@ncsu.edu>
 Date:   Thu Sep 24 17:52:10 2026 -0400
