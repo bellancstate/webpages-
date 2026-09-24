@@ -1,0 +1,22 @@
+/*
+ *Name: [Bella]
+ *UnityID: [brlamin]
+ *Date: [9/24/2026]
+ *Assignment: [Guided Lab 4]
+ *Description: [Guided Lab Assignment, about me webpage]
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #DECAFF;
+}
+
+.tableborder {
+    border: 1px solid #DECAFF;
+}
+
+#idphoto-resize {
+      max-width: 250px;
+      max-height: 300px;
+}
