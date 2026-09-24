@@ -1,3 +1,21 @@
+commit 2b5629b2ed3d37a7b17c7ae212527d8a64040c82
+Author: Bella Lamin <brlamin@ncsu.edu>
+Date:   Thu Sep 24 17:52:10 2026 -0400
+
+    Finalizing repository for Gradescope
+
+commit 168f24b3ef2474637195234d1b054dddd889274f
+Author: Bella Lamin <brlamin@ncsu.edu>
+Date:   Thu Sep 24 15:50:09 2026 -0400
+
+    Fixed filename to index.html
+
+commit 5664adfb1e30fb63a90611a45eaf0e65f4ec4bc0
+Author: Bella Lamin <brlamin@ncsu.edu>
+Date:   Thu Sep 24 15:43:35 2026 -0400
+
+    Renamed HTML file to index.html
+
 commit f0d0e5bdbb8a1f7efb3c08943fde5050e9491080
 Author: Bella Lamin <brlamin@ncsu.edu>
 Date:   Thu Sep 24 13:30:46 2026 -0400
