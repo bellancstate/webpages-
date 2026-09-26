@@ -1,3 +1,15 @@
+commit 2b365fa302af659997cfb2ea1bb62ecef5457af2
+Author: Bella Lamin <brlamin@ncsu.edu>
+Date:   Sat Sep 26 10:12:43 2026 -0400
+
+    Fix CSS selectors and HTML table tags
+
+commit 65114e90ab04fd76b48cae239b87c24dbd8ee340
+Author: Bella Lamin <brlamin@ncsu.edu>
+Date:   Thu Sep 24 18:08:08 2026 -0400
+
+    Updated commit log file
+
 commit e43c81fc1f4783c274cccc98a553756dccc74310
 Author: Bella Lamin <brlamin@ncsu.edu>
 Date:   Thu Sep 24 18:04:56 2026 -0400
